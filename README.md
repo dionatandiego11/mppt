@@ -105,9 +105,8 @@ Repositório/DOI: <adicione o DOI ou URL>
 > Atualize autores/afiliação e inclua o DOI após o depósito.
 
 ## 🪪 Licença
-Recomendado **MIT** (código) e **CC‑BY‑4.0** (texto/figuras). Ajuste conforme política da revista.
+ **MIT** e **CC‑BY‑4.0** (texto/figuras). Ajuste conforme política da revista.
 
 ## 📫 Contato
-- Autor correspondente: <seu_email@dominio>
-- ORCID: <seu_orcid>
-- ABENS/SOBRAEP/UFPR: inclua afiliações e financiadores, se houver.
+- Autor correspondente: <dionatanderesende@gmail.com>
+- ORCID: 0009-0009-8217-1623
